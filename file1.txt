@@ -1,2 +1,2 @@
  This is my first line in file1
- 
+Here is my second line for file1 
